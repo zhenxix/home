@@ -2,36 +2,36 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://zhenxi.site/"
+  },
+    {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://www.zhenxi.site/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "link": "https://drive.orzchang.eu.org/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "图床",
+    "link": "https://zhenxi.us.kg/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "icon": "LaptopCode",
+    "name": "探针",
+    "link": "https://vps.zhenxi.site/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "LaptopCode",
+    "name": "主站检测",
+    "link": "https://hk.551314.xyz/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://uptime.551314.xyz/"
   }
 ]
