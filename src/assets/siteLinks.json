@@ -5,9 +5,9 @@
     "link": "https://zhenxi.site/"
   },
     {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://www.zhenxi.site/"
+    "icon": "Fire",
+    "name": "IP检测",
+    "link": "https://ip.zhenxi.site/"
   },
   {
     "icon": "Cloud",
@@ -25,13 +25,8 @@
     "link": "https://vps.zhenxi.site/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "主站检测",
-    "link": "https://hk.551314.xyz/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://uptime.551314.xyz/"
+    "icon": "Book",
+    "name": "GptWeb",
+    "link": "https://gpt.551314.xyz/"
   }
 ]
