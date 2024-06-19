@@ -1,7 +1,7 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
+    "name": "个人博客",
     "link": "https://zhenxi.site/"
   },
     {
@@ -11,22 +11,32 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
+    "name": "CF网盘",
     "link": "https://drive.orzchang.eu.org/"
   },
   {
     "icon": "CompactDisc",
-    "name": "图床",
-    "link": "https://zhenxi.us.kg/"
+    "name": "TG图床",
+    "link": "https://image.zhenxi.site/"
   },
   {
     "icon": "LaptopCode",
-    "name": "探针",
+    "name": "哪吒探针",
     "link": "https://vps.zhenxi.site/"
   },
   {
     "icon": "Book",
     "name": "GptWeb",
     "link": "https://gpt.551314.xyz/"
+  },
+    {
+    "icon": "Fire",
+    "name": "开发工具",
+    "link": "https://tools.zhenxi.site/"
+  },
+  {
+    "icon": "Fire",
+    "name": "思维导图",
+    "link": "https://mindmap.zhenxi.site/"
   }
 ]
