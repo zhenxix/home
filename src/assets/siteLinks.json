@@ -21,22 +21,32 @@
   },
   {
     "icon": "LaptopCode",
-    "name": "哪吒探针",
-    "link": "https://vps.zhenxi.site/"
+    "name": "监视器",
+    "link": "https://monitor.zhenxi.site/"
   },
   {
     "icon": "Book",
     "name": "GptWeb",
     "link": "https://gpt.551314.xyz/"
   },
-    {
+  {
     "icon": "Fire",
     "name": "开发工具",
     "link": "https://tools.zhenxi.site/"
   },
   {
     "icon": "Fire",
+    "name": "短链",
+    "link": "https://short.zhenxi.site/"
+  },
+  {
+    "icon": "Fire",
     "name": "思维导图",
     "link": "https://mindmap.zhenxi.site/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "哪吒探针",
+    "link": "https://vps.zhenxi.site/"
   }
 ]
